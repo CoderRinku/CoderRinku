@@ -1,12 +1,12 @@
 # Hi there, I'm Md Roknusjaman Rinku! <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="30px">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&duration=3000&pause=1000&color=41B883&width=435&lines=Full+Stack+Developer;Founder+of+SR+Orbit;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&duration=3000&pause=1000&color=41B883&width=435&lines=Full+Stack+Developer;Founder+of+SR+Orbit;Tech+Enthusiast;Problem+Solver" alt="Md Roknusjaman Rinku - Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/CoderRinku">
-    <img src="https://views.whatilearened.today/views/github/CoderRinku/views.svg" alt="Views" />
+    <img src="https://views.whatilearened.today/views/github/CoderRinku/views.svg" alt="Md Roknusjaman Rinku GitHub Profile Views" />
   </a>
 </p>
 
@@ -27,7 +27,7 @@ I'm a passionate **Full Stack Developer** and the **Founder of SR Orbit**, based
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,git,vscode,figma,postman,vercel,netlify" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,git,vscode,figma,postman,vercel,netlify" alt="Md Roknusjaman Rinku Tech Stack" />
   </a>
 </p>
 
@@ -37,16 +37,16 @@ I'm a passionate **Full Stack Developer** and the **Founder of SR Orbit**, based
 
 <p align="center">
   <a href="https://github.com/CoderRinku">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=CoderRinku&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="CoderRinku's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=CoderRinku&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Md Roknusjaman Rinku GitHub Stats" />
   </a>
   <a href="https://github.com/CoderRinku">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderRinku&layout=compact&theme=radical&hide_border=true" alt="CoderRinku's Top Languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderRinku&layout=compact&theme=radical&hide_border=true" alt="Md Roknusjaman Rinku Top Languages" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/CoderRinku">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CoderRinku&theme=radical&hide_border=true" alt="CoderRinku's GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CoderRinku&theme=radical&hide_border=true" alt="Md Roknusjaman Rinku GitHub Streak" />
   </a>
 </p>
 
@@ -56,10 +56,10 @@ I'm a passionate **Full Stack Developer** and the **Founder of SR Orbit**, based
 
 <p align="center">
   <a href="mailto:roknusjamanrinku1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Md Roknusjaman Rinku" />
   </a>
   <a href="https://github.com/CoderRinku">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Md Roknusjaman Rinku GitHub Profile" />
   </a>
 </p>
 
